@@ -8,6 +8,7 @@ public class JagalchiServerApplication {
 
     static void main(String[] args) {
         SpringApplication.run(JagalchiServerApplication.class, args);
+        System.out.println("testste");
     }
 
 }
